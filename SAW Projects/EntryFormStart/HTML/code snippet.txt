@@ -1,0 +1,20 @@
+<div class="SommShowdownStartPage" style="width: 800px; height: 1340px; position: relative; background: white">
+    <div class="Welcome" style="width: 614px; height: 664px; left: 93px; top: 433px; position: absolute; flex-direction: column; justify-content: center; align-items: center; gap: 25px; display: inline-flex">
+      <div class="WelcomeToSommelierShowdown" style="width: 676px; text-align: center"><span style="color: #A1D884; font-size: 68px; font-family: Cabin; font-weight: 500; letter-spacing: 0.68px; word-wrap: break-word">Welcome<br/></span><span style="color: #1D4F91; font-size: 68px; font-family: Cabin; font-weight: 700; letter-spacing: 0.68px; word-wrap: break-word">To Sommelier Showdown</span><span style="color: #FFC600; font-size: 68px; font-family: Cabin; font-weight: 700; letter-spacing: 0.68px; word-wrap: break-word">.</span></div>
+      <div class="WeReExcitedYouHaveChosenToCompeteForAGoodCauseAllProceedsWillDirectlyBenefitThisYearSChosenPartnerFaceOffWithSomeOfKansasCitySMostPassionateWineDrinkersForTheChanceAtA1000Prize" style="width: 632px; text-align: center; color: #06040A; font-size: 24px; font-family: Cabin; font-weight: 400; line-height: 32px; word-wrap: break-word">We’re excited you have chosen to compete for a good cause. All proceeds will directly benefit this year’s chosen partner. Face off with some of Kansas City’s most passionate wine drinkers for the chance at a $1,000 prize!</div>
+      <div class="HopeHouseLogo" style="padding: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: flex">
+        <img class="HopeHouse1" style="width: 508px; height: 113px" src="../../../../SAW Projects/EntryFormStart/Logos/HopeHouse/hopehouselogo.png" alt="hopehouselogo" />
+      </div>
+      <div class="FormInput" style="width: 300px; height: 75px; padding-top: 17px; padding-bottom: 16px; padding-left: 42px; padding-right: 43px; background: #A1D884; border-radius: 25px; border: 1px #767676 solid; justify-content: center; align-items: center; display: inline-flex">
+        <div class="GetStarted" style="width: 215px; height: 42px; text-align: center; color: white; font-size: 40px; font-family: Cabin; font-weight: 700; word-wrap: break-word">Get Started</div>
+      </div>
+    </div>
+    <div class="FooterLogo" style="width: 371px; height: 73px; padding-left: 25px; padding-right: 25px; padding-top: 10px; padding-bottom: 10px; left: 186px; top: 1278px; position: absolute; background: white; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+      <div class="Form2023SailAwayLlc" style="width: 257.10px; height: 34px; text-align: center; color: black; font-size: 28px; font-family: Cabin; font-style: italic; font-weight: 400; word-wrap: break-word">© 2023 Sail Away, LLC.</div>
+      <img class="SawCircleTagBlack2" style="width: 44.02px; height: 45px" src="../../../../SAW Projects/EntryFormStart/Logos/SAW/sawlogo.png" alt="sawlogo" />
+    </div>
+    <div class="SawLogo" style="padding: 10px; left: 500px; top: 1064px; position: absolute"></div>
+    <div class="ShowdownLogo" style="padding: 10px; left: 192px; top: -41px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+      <img class="Showdownlogo1" style="width: 397px; height: 397px" src="../../../../SAW Projects/EntryFormStart/Logos/SommShowdown/sommlogo.png"> alt="ShowdownLogo" />
+    </div>
+  </div>
